@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Runner.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/sokol/Documents/Unreal Projects/Runner/Intermediate/Build/Win64/x64/RunnerEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h.obj"
+"C:/Users/sokol/Documents/Unreal Projects/Runner/Intermediate/Build/Win64/x64/UnrealEditor/Development/Runner/MyClass.cpp.obj"
+"C:/Users/sokol/Documents/Unreal Projects/Runner/Intermediate/Build/Win64/x64/UnrealEditor/Development/Runner/Runner.cpp.obj"
+"C:/Users/sokol/Documents/Unreal Projects/Runner/Intermediate/Build/Win64/x64/UnrealEditor/Development/Runner/PerModuleInline.gen.cpp.obj"
+"C:/Users/sokol/Documents/Unreal Projects/Runner/Intermediate/Build/Win64/x64/UnrealEditor/Development/Runner/Default.rc2.res"
+/OUT:"C:/Users/sokol/Documents/Unreal Projects/Runner/Intermediate/Build/Win64/x64/UnrealEditor/Development/Runner/UnrealEditor-Runner.lib"
