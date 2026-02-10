@@ -1,3 +1,5 @@
-2026/02/09-21:32:14.585 501c Reusing MANIFEST C:\Users\sokol\Documents\Unreal Projects\Runner\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/02/09-21:32:14.590 501c Recovering log #3
-2026/02/09-21:32:14.592 501c Reusing old log C:\Users\sokol\Documents\Unreal Projects\Runner\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/02/10-21:59:12.518 d24 Reusing MANIFEST C:\Users\sokol\Documents\Unreal Projects\Runner\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/10-21:59:12.529 d24 Recovering log #3
+2026/02/10-21:59:12.541 d24 Level-0 table #3: started
+2026/02/10-21:59:12.670 d24 Level-0 table #3: 61000 bytes OK
+2026/02/10-21:59:12.677 d24 Delete type=0 #3
